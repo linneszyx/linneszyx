@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align = "center"> Hello World🌎 , I'm Suryansh Upadhyay🧑‍💻</h1>
 🔭 I’m currently working to build my soft skills<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with other learners and developers<br>🌱 I’m currently learning web development and data science<br>💬 Ask me about : Data Structures and Algorithms<br>⚡ Fun fact : Spice and Anime is thrill combination
 
 
