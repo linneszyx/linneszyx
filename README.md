@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linneszyx&label=Profile%20views&color=dc1ec3&style=flat-square" alt="linneszyx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/linneszyx" target="blank"><img src="https://img.shields.io/twitter/follow/linneszyx?logo=twitter&style=for-the-badge" alt="linneszyx" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web 3.0**
 
