@@ -35,7 +35,5 @@
 
 <h3 align="left">Github Stats:</h3><hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linneszyx&show_icons=true&theme=tokyonight&text_color=d31dcd&hide_border=true&locale=en&layout=compact" alt="linneszyx" /></p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=linneszyx&show_icons=true&theme=tokyonight&title_color=745d6e&text_color=d1159f&hide_border=true&locale=en" alt="linneszyx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linneszyx&theme=tokyonight" alt="linneszyx" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=linneszyx&theme=tokyonight" alt="linneszyx" /></p>
