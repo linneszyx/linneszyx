@@ -2,8 +2,6 @@
 <h2 align="center">Full-Stack Developer | Competitive Programmer </h2>
 
 
-<img align="right" alt="Coding" height="280px" src="https://www.bing.com/th/id/OGC.1c9d84c01b54af1d61bcff6d3c88d463?pid=1.7&rurl=https%3a%2f%2fwww.6mejores.com%2fwp-content%2fuploads%2f2021%2f07%2f1625660866_10-mejores-programas-de-animacion-para-principiantes-Free-Paid.gif&ehk=Cpkw4ajS4DeNMxZqYRDRg3jEHC5LL4y30hZKvNdq2mE%3d">
-
 
 
 
