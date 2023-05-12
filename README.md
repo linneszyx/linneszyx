@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Web 3.0**
 
 - 👯 I’m looking to collaborate on **Open Sources and Hackathons**
 
