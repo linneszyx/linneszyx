@@ -1,4 +1,4 @@
-[![masterHead](https://share.creavite.co/FnlkoXykuQCscdRC.gif)](https://www.linkedin.com/in/linneszyx/)
+<img aling="center" alt="banner"  width="1200"  src="https://share.creavite.co/zDUMe0N0W8hN0Mjd.gif">
 
 <img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
