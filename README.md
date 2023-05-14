@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Suryansh Upadhyay 👋</h1>
 <h2 align="center">Full-Stack Developer | Competitive Programmer </h2>
-<img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 
