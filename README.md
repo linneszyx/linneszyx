@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I'm currently learning **Cloud Computing**
+- 🌱 I'm currently learning **Deep Learning**
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **MERN and ML Projects**
   
 - 👯 I’m looking to collaborate on **Open Sources and Hackathons**
 
