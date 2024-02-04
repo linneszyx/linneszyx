@@ -20,6 +20,7 @@
 <a href="https://twitter.com/linneszyx" target="blank"><img align="center" src="https://www.svgrepo.com/show/452121/twitter-1.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linneszyx/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="suryanshupadhyay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19043453" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="19043453" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/heaven_senpai" target="blank"><img align="center" src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks" alt="19043453" height="30" width="40" /></a>
 <a href="https://fb.com/suryanshupadyay02i" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="suryanshupadyay02i" height="30" width="40" /></a>
 <a href="https://instagram.com/linneszyx" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="linneszyx" height="30" width="40" /></a>
 <a href="https://www.behance.net/suryansupadhya" target="blank"><img align="center" src="https://www.svgrepo.com/show/475632/behance-color.svg" alt="suryansupadhyay" height="30" width="40" /></a>
@@ -28,6 +29,7 @@
 <a href="https://www.hackerrank.com/linneszyx" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=h5EUmNCXhSH0&format=png" alt="linneszyx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/linneszyx" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="linneszyx" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@itssuryanshcooldude346" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="@itssuryanshcooldude346" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
