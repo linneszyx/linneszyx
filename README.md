@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-
+`
 
 
 - 🌱 I'm currently learning **Deep Learning**
@@ -38,6 +38,6 @@
 <h3 align="left">Github Stats : </h3><hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linneszyx&show_icons=true&theme=tokyonight&title_color=745d6e&text_color=d1159f&hide_border=true&locale=en" alt="linneszyx" width="48%" height="40%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=linneszyx&theme=tokyonight" alt="linneszyx" width="48%" height="40%">
 
-<h3 align="left">Hacktoberfest 2023 : </h3><hr>
+<h3 align="left">Hacktoberfest 2023: </h3><hr>
 
 [![An image of @linneszyx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linneszyx)](https://holopin.io/@linneszyx)
